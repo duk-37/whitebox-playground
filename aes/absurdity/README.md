@@ -1,5 +1,5 @@
 # Absurd white-box AES implementation
-Somewhat similar to other whitebox implementations in that it uses lookup tables to encode the expanded round-key to an AES-128 implementation. 
+Somewhat similar to other whitebox AES implementations in that it uses lookup tables to encode the expanded round key.
 
 # Differences
 - 256 megabytes(!!!!) of lookup tables
